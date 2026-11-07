@@ -17,8 +17,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=500&height=100&lines=Data+Science+Intern;ML+Engineer;)](https://git.io/typing-svg)
 
-<a href="https://github.com/ResorcinolWorks" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ResorcinolWorks?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ResorcinolWorks&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+<a href="https://github.com/0xReso" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xReso?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=0xReso&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ---
 
@@ -52,12 +52,12 @@
 
 ## 🌟 Data Science Projects
 
-- #### [Image Caption Generator](https://github.com/ResorcinolWorks/ICG) - CNN-LSTM Deep Learning
+- #### [Image Caption Generator](https://github.com/0xReso/ICG) - CNN-LSTM Deep Learning
   ```Python | TensorFlow | DenseNet201 | LSTM | Flickr8K```
   
   Encoder-decoder architecture using pre-trained DenseNet201 for image feature extraction and LSTM network for sequential caption generation. Includes custom data generator and residual connections.
 
-- #### [Deep Learning Lab](https://github.com/ResorcinolWorks/DeepLearningLab) - DL Implementations
+- #### [Deep Learning Lab](https://github.com/0xReso/DeepLearningLab) - DL Implementations
   ```Python | TensorFlow | Neural Networks | CNNs | RNNs```
   
   Comprehensive repository of Deep Learning implementations covering neural network architectures, optimization techniques, and model training strategies.
@@ -88,7 +88,7 @@
 
 ## 🌐 Connect
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/ResorcinolWorks)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/0xReso)
 [![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://www.resorcinolworks.tech)
 
 ---
@@ -96,17 +96,17 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-   <a href="https://github.com/ResorcinolWorks">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ResorcinolWorks&theme=radical&border_radius=2.5"/>
+   <a href="https://github.com/0xReso">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=0xReso&theme=radical&border_radius=2.5"/>
    </a>
 </p>
 
 <p align="left">
-<a href="https://github.com/ResorcinolWorks">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ResorcinolWorks&show_icons=true&count_private=true&theme=radical" width="400px"/>
+<a href="https://github.com/0xReso">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0xReso&show_icons=true&count_private=true&theme=radical" width="400px"/>
 </a>
-<a href="https://github.com/ResorcinolWorks">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResorcinolWorks&theme=radical&layout=compact" width="400px"/>
+<a href="https://github.com/0xReso">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xReso&theme=radical&layout=compact" width="400px"/>
 </a>
 </p>
 
